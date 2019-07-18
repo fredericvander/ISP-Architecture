@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inhabitant Review repository"
-    id="eba1b778-ee97-46f4-b832-6dfc57966d10"/>
+    name="A210 - Inhabitant Review Repository"
+    id="eba1b778-ee97-46f4-b832-6dfc57966d10">
+  <properties
+      key="product-type"
+      value="repository"/>
+</archimate:Product>
