@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shop Pilot"
+    id="221d5344-1e72-4e34-a7c3-befaa10dac68">
+  <properties
+      key="Business Unit"
+      value="LMRU"/>
+</archimate:ApplicationComponent>
