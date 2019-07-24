@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Model"
+    id="90a219bf-e304-42f4-a9c6-8509557dd33e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="af783ca1-c49c-46f0-8f2d-a42b46d4e294">
+    <bounds
+        x="629"
+        y="129"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_d70ab047-5863-4427-9b89-8522c4f9cdb5.xml#d70ab047-5863-4427-9b89-8522c4f9cdb5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7caf841d-fd6d-458d-86d6-5a04c3ef8fc3">
+    <bounds
+        x="629"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_2b29c926-7fb7-4336-b3ca-add464ebe122.xml#2b29c926-7fb7-4336-b3ca-add464ebe122"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1dc950fb-ed35-4ad6-bd48-b6e36131199e">
+    <bounds
+        x="629"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_c5ff5900-5a26-4f8d-90c4-604c787e0aa5.xml#c5ff5900-5a26-4f8d-90c4-604c787e0aa5"/>
+  </children>
+</archimate:ArchimateDiagramModel>
