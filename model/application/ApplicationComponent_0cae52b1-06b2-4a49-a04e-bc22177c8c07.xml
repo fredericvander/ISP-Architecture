@@ -1,4 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="tartempion"
-    id="0cae52b1-06b2-4a49-a04e-bc22177c8c07"/>
+    id="0cae52b1-06b2-4a49-a04e-bc22177c8c07">
+  <properties
+      key="Business Unit"/>
+  <properties
+      key="version"/>
+</archimate:ApplicationComponent>
