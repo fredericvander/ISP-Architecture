@@ -79,10 +79,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="65d957df-681d-443a-912b-350c080433a4">
     <bounds
-        x="1676"
-        y="318"
-        width="120"
-        height="55"/>
+        x="1476"
+        y="306"
+        width="229"
+        height="133"/>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_c9711dc8-5483-46bd-a6e7-0fb98c25e9d9.xml#c9711dc8-5483-46bd-a6e7-0fb98c25e9d9"/>
