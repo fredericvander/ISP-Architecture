@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inhabitant project product"
+    id="50ab5208-81f2-4eea-8c6a-6026d6ad49d0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7e89eb7e-6eed-45aa-a981-5fd22b0a2a01">
+    <bounds
+        x="60"
+        y="48"
+        width="1813"
+        height="757"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_4a653624-d9c2-44ec-90f5-c1f883a706b0.xml#4a653624-d9c2-44ec-90f5-c1f883a706b0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
