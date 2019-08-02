@@ -436,7 +436,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d489f2b4-c51e-4702-996a-754c83214ca5"
-        targetConnections="544c9651-4872-4bb7-a7dc-4be86fb4b5e5 90246c34-4a93-4c8b-9655-f568d5f1bced e910d5e1-1c13-4837-92a7-67cdb497d9bf">
+        targetConnections="544c9651-4872-4bb7-a7dc-4be86fb4b5e5 90246c34-4a93-4c8b-9655-f568d5f1bced">
       <bounds
           x="24"
           y="120"
@@ -696,42 +696,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="090fbd1b-8f8c-4fc0-a0b8-6e2d10be397d">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f126d528-e7b1-45ff-8f04-5e4c1011251c"
-        source="090fbd1b-8f8c-4fc0-a0b8-6e2d10be397d"
-        target="c04f0aab-cd07-47a5-8c8f-0ff4a27ec48f">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_2b9c56d3-3277-4fa4-bd3e-c2726181aeee.xml#2b9c56d3-3277-4fa4-bd3e-c2726181aeee"/>
-    </sourceConnections>
     <bounds
         x="108"
         y="708"
         width="280"
         height="155"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="c04f0aab-cd07-47a5-8c8f-0ff4a27ec48f"
-        targetConnections="f126d528-e7b1-45ff-8f04-5e4c1011251c">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="e910d5e1-1c13-4837-92a7-67cdb497d9bf"
-          source="c04f0aab-cd07-47a5-8c8f-0ff4a27ec48f"
-          target="d489f2b4-c51e-4702-996a-754c83214ca5">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_f5f99f8b-3057-4a7f-9931-3216f9347219.xml#f5f99f8b-3057-4a7f-9931-3216f9347219"/>
-      </sourceConnections>
-      <bounds
-          x="73"
-          y="70"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_de45c58c-218e-4db0-96ab-3f8e345e1f0d.xml#de45c58c-218e-4db0-96ab-3f8e345e1f0d"/>
-    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_0cae52b1-06b2-4a49-a04e-bc22177c8c07.xml#0cae52b1-06b2-4a49-a04e-bc22177c8c07"/>
