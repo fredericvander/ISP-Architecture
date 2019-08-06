@@ -5,55 +5,12 @@
     id="9587d9ea-ce76-4c69-8b47-78b9344d88f2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e132f6db-1dae-4e7a-8ffe-7c71331fb3be"
-      targetConnections="da764682-f623-4072-868e-0b3b47925d28 a067896d-4f7d-4a14-9496-b48ace6e8205">
+      id="e132f6db-1dae-4e7a-8ffe-7c71331fb3be">
     <bounds
         x="84"
         y="72"
         width="1045"
         height="361"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="feb25373-1a48-4f36-8df2-ab2383477f34">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="da764682-f623-4072-868e-0b3b47925d28"
-          source="feb25373-1a48-4f36-8df2-ab2383477f34"
-          target="e132f6db-1dae-4e7a-8ffe-7c71331fb3be">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_94059d49-acb6-42f1-bd88-c11189163cac.xml#94059d49-acb6-42f1-bd88-c11189163cac"/>
-      </sourceConnections>
-      <bounds
-          x="72"
-          y="60"
-          width="289"
-          height="241"/>
-      <archimateElement
-          xsi:type="archimate:Product"
-          href="Product_13ab3912-00dd-41c8-945c-3b73a436573e.xml#13ab3912-00dd-41c8-945c-3b73a436573e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="f534634c-b458-479b-86bd-dd19944f368d">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="a067896d-4f7d-4a14-9496-b48ace6e8205"
-          source="f534634c-b458-479b-86bd-dd19944f368d"
-          target="e132f6db-1dae-4e7a-8ffe-7c71331fb3be">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_307725ef-be44-4f0a-9757-d0fe279367b9.xml#307725ef-be44-4f0a-9757-d0fe279367b9"/>
-      </sourceConnections>
-      <bounds
-          x="504"
-          y="60"
-          width="349"
-          height="241"/>
-      <archimateElement
-          xsi:type="archimate:Product"
-          href="Product_05c8c749-6534-4b3e-9b72-53fc5d6d2da1.xml#05c8c749-6534-4b3e-9b72-53fc5d6d2da1"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_f295ea52-7646-4795-a955-afadd20536b0.xml#f295ea52-7646-4795-a955-afadd20536b0"/>
