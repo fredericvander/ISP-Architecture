@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PSH - Domain &amp; products"
+    name="PSH - Business domain &amp; products"
     id="7f592f87-b3d1-42b1-bae2-8b08e2178cac">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
