@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MEDIA"
-    id="42391173-1f7b-425f-98a3-b95e45f91709"/>
+    id="42391173-1f7b-425f-98a3-b95e45f91709"
+    documentation="Photo"/>
