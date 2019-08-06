@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Style Recognition Process"
+    id="2147acd0-7a77-4598-a749-cbb8f67334da">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3a6c4b7d-549b-472f-b779-d198551810d3">
+    <bounds
+        x="118"
+        y="193"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_42391173-1f7b-425f-98a3-b95e45f91709.xml#42391173-1f7b-425f-98a3-b95e45f91709"/>
+  </children>
+</archimate:ArchimateDiagramModel>
