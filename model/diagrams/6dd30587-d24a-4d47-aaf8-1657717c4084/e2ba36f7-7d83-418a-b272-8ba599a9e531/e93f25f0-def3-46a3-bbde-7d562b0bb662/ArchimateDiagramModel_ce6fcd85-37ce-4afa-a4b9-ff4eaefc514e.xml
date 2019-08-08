@@ -5,27 +5,6 @@
     id="ce6fcd85-37ce-4afa-a4b9-ff4eaefc514e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="93a06379-efbb-4d6c-80cc-1b98722d55e8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="783f68ed-d402-421b-b2a4-2f7f82900c89"
-        source="93a06379-efbb-4d6c-80cc-1b98722d55e8"
-        target="929b9fe3-5ad9-41d7-94f5-a73de0a18cc6">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_bb71e924-b6ec-4aa8-b78a-6330e447730c.xml#bb71e924-b6ec-4aa8-b78a-6330e447730c"/>
-    </sourceConnections>
-    <bounds
-        x="71"
-        y="303"
-        width="121"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessEvent"
-        href="BusinessEvent_681e51a2-7cc7-4982-8c56-23b59761a1cc.xml#681e51a2-7cc7-4982-8c56-23b59761a1cc"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="89978967-20b1-468b-bea0-cf9282957370"
       targetConnections="dc629f26-96e5-42af-9635-96d8c11668e6">
     <bounds
@@ -111,7 +90,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="820433b2-ea3c-4fe7-81d5-ae34f5491bc3"
-        targetConnections="5de3f67c-54ae-42c9-8f14-71e641f84129">
+        targetConnections="5de3f67c-54ae-42c9-8f14-71e641f84129 b2185d4e-9912-49d2-a201-6cf540e2af84">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ea766411-df2d-4711-84df-f0971152d918"
@@ -173,7 +152,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="929b9fe3-5ad9-41d7-94f5-a73de0a18cc6"
-        targetConnections="783f68ed-d402-421b-b2a4-2f7f82900c89">
+        targetConnections="13c214ac-09c4-4ccb-81c5-c3a8bebfa6b0">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1e5636ae-c65d-44e5-9b08-9e2279fa1147"
@@ -239,5 +218,59 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_dd0510ff-bb46-492f-860c-a4d7c9614391.xml#dd0510ff-bb46-492f-860c-a4d7c9614391"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cee25d55-32f3-4e8a-bea3-ab0b077dd9d2">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="13c214ac-09c4-4ccb-81c5-c3a8bebfa6b0"
+        source="cee25d55-32f3-4e8a-bea3-ab0b077dd9d2"
+        target="929b9fe3-5ad9-41d7-94f5-a73de0a18cc6">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_c9a7653a-5fce-40e6-8adb-1be63bf66af8.xml#c9a7653a-5fce-40e6-8adb-1be63bf66af8"/>
+    </sourceConnections>
+    <bounds
+        x="48"
+        y="288"
+        width="121"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_2fcd8fe1-3b80-41d3-a375-6ba2094d4da1.xml#2fcd8fe1-3b80-41d3-a375-6ba2094d4da1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="51e8ca47-3353-4093-97bf-75cf6e76de24">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b2185d4e-9912-49d2-a201-6cf540e2af84"
+        source="51e8ca47-3353-4093-97bf-75cf6e76de24"
+        target="820433b2-ea3c-4fe7-81d5-ae34f5491bc3">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_c286c03f-b62c-4c44-a8c3-a1971fda3b29.xml#c286c03f-b62c-4c44-a8c3-a1971fda3b29"/>
+    </sourceConnections>
+    <bounds
+        x="636"
+        y="456"
+        width="121"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_2a7caf5d-4227-4d63-8151-13cda090c012.xml#2a7caf5d-4227-4d63-8151-13cda090c012"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="57ee7a40-57dd-4163-b5fb-d23134c6b936"
+      textAlignment="1"
+      fillColor="#c0c0c0"
+      content="Photos can be selected among DAMEO photos &#xD;&#xA;OR&#xD;&#xA;can be loaded by the user (personal photos, pinterest photos)">
+    <bounds
+        x="984"
+        y="420"
+        width="185"
+        height="97"/>
   </children>
 </archimate:ArchimateDiagramModel>
