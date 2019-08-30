@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPR - Check if estimation is possible"
+    id="9e4ae46f-c2fa-4065-a4a6-daee1fe4713c"
+    documentation="This step of the estimation process checks that eough criterias are provided in order to provide a bduget estimation"/>

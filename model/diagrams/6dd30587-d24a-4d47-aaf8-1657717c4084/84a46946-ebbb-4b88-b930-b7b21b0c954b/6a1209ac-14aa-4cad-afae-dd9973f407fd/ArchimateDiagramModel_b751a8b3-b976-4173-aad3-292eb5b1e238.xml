@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inhabitant project qualif"
+    name="VIEW - Inhabitant project qualif"
     id="b751a8b3-b976-4173-aad3-292eb5b1e238">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -28,15 +28,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="21bad9c3-34da-42e1-9e24-0fd0facf136f"
       targetConnections="9ffd0ffb-a7d2-4c35-a34a-783e375e0a81">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="66e671d6-d311-466d-8f2e-9cf3f1b8e5af"
-        source="21bad9c3-34da-42e1-9e24-0fd0facf136f"
-        target="965cd3ee-cb78-4679-843b-f3be9e241cfc">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_8bc1c0e9-ba1a-4597-9130-f1887088abb1.xml#8bc1c0e9-ba1a-4597-9130-f1887088abb1"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9c2076cb-ddf6-4dc6-a859-2138fe8fb00a"
@@ -66,37 +57,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_337090a5-40e0-42c1-af85-3cd6c37f8c8e.xml#337090a5-40e0-42c1-af85-3cd6c37f8c8e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="965cd3ee-cb78-4679-843b-f3be9e241cfc"
-      targetConnections="66e671d6-d311-466d-8f2e-9cf3f1b8e5af 84cde5b5-364b-40f8-973e-1d3eb114c660">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d1925e0f-0ca5-4f4a-8fe8-6da316ec2635"
-        source="965cd3ee-cb78-4679-843b-f3be9e241cfc"
-        target="7e08aa6b-75b5-4a23-bee0-ca8fa5e2fb5d">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_b30b153f-347f-43b7-be9a-ce1674333090.xml#b30b153f-347f-43b7-be9a-ce1674333090"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4eaaa381-25f0-42c1-b9af-7119c7d240ce"
-        source="965cd3ee-cb78-4679-843b-f3be9e241cfc"
-        target="53cda9e3-3177-46fc-9a13-18e09b57420a">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_3f90828f-dc09-4c65-baac-4aa928cfa444.xml#3f90828f-dc09-4c65-baac-4aa928cfa444"/>
-    </sourceConnections>
-    <bounds
-        x="528"
-        y="468"
-        width="145"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:BusinessEvent"
-        href="BusinessEvent_833f88be-852d-41f2-97a1-e498e8bc4de4.xml#833f88be-852d-41f2-97a1-e498e8bc4de4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -159,15 +119,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5f1aeb04-fb75-4e72-b9bd-f239eb281c89"
         targetConnections="b4f5781c-24f0-4f79-9e83-7fd2bb823a3f 4ad52195-8a09-4450-b1c3-a664d163df82">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="84cde5b5-364b-40f8-973e-1d3eb114c660"
-          source="5f1aeb04-fb75-4e72-b9bd-f239eb281c89"
-          target="965cd3ee-cb78-4679-843b-f3be9e241cfc">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_872ea5ce-af7e-437a-8f6a-c9b6de0d20c0.xml#872ea5ce-af7e-437a-8f6a-c9b6de0d20c0"/>
-      </sourceConnections>
       <bounds
           x="132"
           y="48"
@@ -214,8 +165,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7e08aa6b-75b5-4a23-bee0-ca8fa5e2fb5d"
-      targetConnections="d1925e0f-0ca5-4f4a-8fe8-6da316ec2635">
+      id="7e08aa6b-75b5-4a23-bee0-ca8fa5e2fb5d">
     <bounds
         x="541"
         y="312"
@@ -272,7 +222,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="53cda9e3-3177-46fc-9a13-18e09b57420a"
-        targetConnections="903f1a5e-9ed2-4cc4-a972-197c53c0cb31 4eaaa381-25f0-42c1-b9af-7119c7d240ce">
+        targetConnections="903f1a5e-9ed2-4cc4-a972-197c53c0cb31">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="66bf77c6-3963-421e-9de1-0e18317d2b27"
