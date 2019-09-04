@@ -467,8 +467,8 @@
       fillColor="#c0c0c0"
       content="Photos can be selected among DAMEO photos &#xD;&#xA;OR&#xD;&#xA;can be loaded by the user (personal photos, pinterest photos)">
     <bounds
-        x="-305"
-        y="258"
+        x="-336"
+        y="288"
         width="185"
         height="97"/>
   </children>
