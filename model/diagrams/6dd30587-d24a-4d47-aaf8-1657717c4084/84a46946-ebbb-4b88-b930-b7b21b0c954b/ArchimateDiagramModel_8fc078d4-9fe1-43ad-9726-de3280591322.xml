@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VIEW - Inhabitant project ABB"
-    id="8fc078d4-9fe1-43ad-9726-de3280591322">
+    id="8fc078d4-9fe1-43ad-9726-de3280591322"
+    documentation="555">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="00ace16f-9a5b-4158-9f94-ef747a90eb15">
