@@ -1,11 +1,12 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="classification"
-    id="85d27139-68b0-4dc5-a8e6-c6e55c21fda3">
+    name="prédiction"
+    id="e1240119-4d3b-481a-a641-4b6545b75b51"
+    documentation="prédiction puis classification">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_a93823bd-4434-48f8-ae2b-b847b18c96a4.xml#a93823bd-4434-48f8-ae2b-b847b18c96a4"/>
+      href="BusinessProcess_24d794cd-7f10-4211-bb47-bb349f57676b.xml#24d794cd-7f10-4211-bb47-bb349f57676b"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_9fd65647-9a8f-4540-8f4d-0d8193bd4923.xml#9fd65647-9a8f-4540-8f4d-0d8193bd4923"/>
