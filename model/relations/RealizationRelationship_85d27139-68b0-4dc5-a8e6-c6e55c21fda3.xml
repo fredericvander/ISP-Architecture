@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="classification"
+    name="Prédiction / classification"
     id="85d27139-68b0-4dc5-a8e6-c6e55c21fda3">
   <source
       xsi:type="archimate:BusinessProcess"
