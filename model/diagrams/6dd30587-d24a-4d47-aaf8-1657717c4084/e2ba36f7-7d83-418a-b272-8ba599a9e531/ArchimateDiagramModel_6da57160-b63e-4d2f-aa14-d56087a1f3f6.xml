@@ -94,16 +94,16 @@
           href="RealizationRelationship_638ef30c-5200-41a2-98e5-c0169242dd49.xml#638ef30c-5200-41a2-98e5-c0169242dd49"/>
     </sourceConnections>
     <bounds
-        x="180"
+        x="168"
         y="228"
-        width="217"
+        width="253"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8427bae1-0571-4292-9079-2a7f505ed5ba"
         targetConnections="b66c2ebc-4690-4a3e-8c2a-a1d9e90e5658">
       <bounds
-          x="48"
+          x="60"
           y="48"
           width="120"
           height="55"/>
@@ -130,7 +130,7 @@
     <bounds
         x="168"
         y="360"
-        width="481"
+        width="493"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -162,16 +162,16 @@
           href="RealizationRelationship_e53b907c-ac8a-4f8b-961a-d6f068c1794f.xml#e53b907c-ac8a-4f8b-961a-d6f068c1794f"/>
     </sourceConnections>
     <bounds
-        x="468"
+        x="432"
         y="228"
-        width="193"
+        width="229"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3c8bf228-499c-4ec8-862d-53035d02be92"
         targetConnections="5d50fba7-fd42-4d1d-80d2-661e8e900c29">
       <bounds
-          x="48"
+          x="84"
           y="48"
           width="120"
           height="55"/>
