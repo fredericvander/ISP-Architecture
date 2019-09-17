@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BP - Exchange &amp; Recommande"
+    id="6432249d-409d-4a4d-9f18-813234ffb108"
+    documentation="After exchanges (tchat 3.0), the prescriptor recommands the user by delivering a to do list (links to guides / doc on line) and/or a shopping list&#xD;&#xA;&#xD;&#xA;To Do List : ordered list of actions/tasks (no notion of timeline) or links to tuto&#xD;&#xA;&#xD;&#xA;Shopping list : List of products, 1 to N, (no notion of availibility / stock)"/>
