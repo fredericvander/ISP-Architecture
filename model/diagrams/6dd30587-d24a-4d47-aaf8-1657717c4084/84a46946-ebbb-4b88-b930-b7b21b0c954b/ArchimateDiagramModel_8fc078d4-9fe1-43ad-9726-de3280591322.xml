@@ -681,16 +681,16 @@
           href="AccessRelationship_a9766f4e-2157-418e-8764-2ff31bad9f27.xml#a9766f4e-2157-418e-8764-2ff31bad9f27"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="228"
         y="390"
-        width="301"
+        width="313"
         height="199"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="fd10bfd4-6647-43e4-9895-4f96b181dc02"
         targetConnections="96ad3cef-9983-4925-904e-3bd98993fc3c">
       <bounds
-          x="96"
+          x="108"
           y="48"
           width="120"
           height="55"/>
@@ -703,7 +703,7 @@
         id="5671bae5-ecc2-4568-ac06-6b627bc7bb5b"
         targetConnections="9ee23065-0415-47c2-ae51-f460cb0961ce">
       <bounds
-          x="96"
+          x="108"
           y="120"
           width="120"
           height="55"/>
@@ -764,16 +764,16 @@
           href="RealizationRelationship_f3772a80-b6d9-49c1-ac24-cfc6bcd2a362.xml#f3772a80-b6d9-49c1-ac24-cfc6bcd2a362"/>
     </sourceConnections>
     <bounds
-        x="252"
+        x="240"
         y="648"
-        width="289"
+        width="301"
         height="265"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2035d50f-6915-4e66-8275-17720277fb33"
         targetConnections="468ff560-af94-4b3b-866d-25150260bedb">
       <bounds
-          x="24"
+          x="36"
           y="36"
           width="109"
           height="55"/>
@@ -786,7 +786,7 @@
         id="af70ad2e-0536-46be-9029-9fb336c3793e"
         targetConnections="19e6c353-3f91-4b21-9109-30fa7df54f80">
       <bounds
-          x="156"
+          x="168"
           y="36"
           width="120"
           height="55"/>
@@ -799,7 +799,7 @@
         id="41bacc5c-742f-4d26-9606-66c36031ea61"
         targetConnections="9c023a8d-759a-4ae3-9ab1-57bfd5014c13">
       <bounds
-          x="24"
+          x="36"
           y="192"
           width="258"
           height="49"/>
@@ -812,7 +812,7 @@
         id="af8aa8ae-2ba9-46b5-a0dc-d7dabc95675d"
         targetConnections="8498eeb0-7b90-4491-9f3c-419580ae8c49">
       <bounds
-          x="156"
+          x="168"
           y="117"
           width="120"
           height="55"/>
@@ -825,7 +825,7 @@
         id="977b6e39-ef73-44e8-8267-6a798c5ed29e"
         targetConnections="2d58fa4d-35d0-4d45-a98b-af84ebe60af1">
       <bounds
-          x="24"
+          x="36"
           y="117"
           width="109"
           height="55"/>
