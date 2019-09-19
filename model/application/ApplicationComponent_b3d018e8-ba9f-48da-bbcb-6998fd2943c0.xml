@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB - ADR"
+    id="b3d018e8-ba9f-48da-bbcb-6998fd2943c0"
+    documentation="Aide à la Saisie d'Adresse &#xD;&#xA;Descriptif : Module qui permet de faire de la saisie d'adresse pour les applications front"/>
