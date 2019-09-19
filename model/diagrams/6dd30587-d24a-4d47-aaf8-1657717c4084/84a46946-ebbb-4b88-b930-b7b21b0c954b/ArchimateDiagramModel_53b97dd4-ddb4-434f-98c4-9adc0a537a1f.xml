@@ -99,6 +99,17 @@
           width="290"
           height="140"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="3d2fbe71-c387-4c98-9e4e-27af84f350e8"
+        name="Personal assistant"
+        textAlignment="1">
+      <bounds
+          x="660"
+          y="408"
+          width="290"
+          height="140"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_1c4c0e68-5b2b-4bab-94d7-45dde7c436af.xml#1c4c0e68-5b2b-4bab-94d7-45dde7c436af"/>
