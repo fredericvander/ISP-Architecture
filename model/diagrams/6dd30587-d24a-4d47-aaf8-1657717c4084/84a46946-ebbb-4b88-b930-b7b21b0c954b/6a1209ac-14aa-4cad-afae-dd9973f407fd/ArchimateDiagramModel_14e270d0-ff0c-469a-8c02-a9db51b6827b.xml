@@ -19,7 +19,7 @@
         x="223"
         y="479"
         width="120"
-        height="55"/>
+        height="86"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_4a34a0e9-6999-4da4-83e5-24e3b4588c9b.xml#4a34a0e9-6999-4da4-83e5-24e3b4588c9b"/>
@@ -85,18 +85,6 @@
     <archimateElement
         xsi:type="archimate:Junction"
         href="Junction_ba62bac9-36f4-47c6-a7cc-219226b7a82c.xml#ba62bac9-36f4-47c6-a7cc-219226b7a82c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5b2f731f-7e22-434d-9920-6b3f002c2062">
-    <bounds
-        x="342"
-        y="96"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_0c54a9b9-4133-4eb3-b948-abfbdb7cddb2.xml#0c54a9b9-4133-4eb3-b948-abfbdb7cddb2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -218,9 +206,9 @@
       id="3eba0952-b6c9-4efb-b215-6d049298559d"
       targetConnections="bf4751e7-e75d-45f4-acc3-f6280f4a5d38">
     <bounds
-        x="1003"
+        x="972"
         y="120"
-        width="120"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
