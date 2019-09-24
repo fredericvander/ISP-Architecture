@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="if user accepts"
     id="28dd0142-518c-427d-a1de-314bc8ed29bc">
   <source
       xsi:type="archimate:BusinessProcess"

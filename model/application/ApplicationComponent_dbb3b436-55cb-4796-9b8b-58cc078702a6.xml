@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB - Projet Client"
+    id="dbb3b436-55cb-4796-9b8b-58cc078702a6"
+    documentation="Module du référentiel pour enregistrer les projets des clients - Déclarer et mettre à jour les projets de travaux, en cours et à initier.&#xD;&#xA;- Info supplémentaire : En cours de décommissionnement"/>
