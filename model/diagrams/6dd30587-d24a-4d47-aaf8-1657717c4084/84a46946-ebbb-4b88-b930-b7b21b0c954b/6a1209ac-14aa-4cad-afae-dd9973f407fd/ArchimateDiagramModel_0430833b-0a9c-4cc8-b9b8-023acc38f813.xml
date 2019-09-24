@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VIEW - Inhabitant project budget management - TODO"
+    id="0430833b-0a9c-4cc8-b9b8-023acc38f813">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6584af36-fa7d-42bc-b217-a1f685cfced0"
+      textAlignment="1"
+      content="Gestion multi lots. Pilotage du budget global&#xD;&#xA;Suivi des dépenses&#xD;&#xA;Alertes de dépassement">
+    <bounds
+        x="1416"
+        y="252"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
