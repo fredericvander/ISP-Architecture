@@ -18,7 +18,7 @@
     <bounds
         x="120"
         y="192"
-        width="120"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
