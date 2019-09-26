@@ -4,17 +4,6 @@
     name="VIEW - Inhabitant project budget management - IN PROGRESS"
     id="0430833b-0a9c-4cc8-b9b8-023acc38f813">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="6584af36-fa7d-42bc-b217-a1f685cfced0"
-      textAlignment="1"
-      content="Gestion multi lots. Pilotage du budget global&#xD;&#xA;Suivi des dépenses&#xD;&#xA;Alertes de dépassement">
-    <bounds
-        x="1248"
-        y="36"
-        width="185"
-        height="80"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2d6c743d-d433-49df-9fb2-1e1de3a39bae">
     <sourceConnections
