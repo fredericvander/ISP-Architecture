@@ -92,7 +92,7 @@
     <bounds
         x="876"
         y="612"
-        width="985"
+        width="721"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,7 +100,7 @@
         targetConnections="adc21fbd-75ea-4312-a365-3c489cee01c8">
       <bounds
           x="36"
-          y="24"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -113,7 +113,7 @@
         targetConnections="8d9701c4-49f3-48d8-9ebf-e6ce241da5fe f208a519-f348-4493-93dc-8e34ac7fcfb5 a10d9447-780f-4c3f-bbf9-44086771e273 132f12d1-bf88-4d0b-bfdf-899e258b23c7">
       <bounds
           x="192"
-          y="24"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -126,7 +126,7 @@
         targetConnections="4dec990f-c7f1-4605-ba64-5f19f482f1d8 94c1f036-7a3a-470b-8352-861fd24b66ba 9384f650-b35e-4cfe-b114-e35f601370c4 e9347d4e-c2ee-43cb-a3df-5336e0c0012c">
       <bounds
           x="564"
-          y="24"
+          y="48"
           width="120"
           height="55"/>
       <archimateElement
@@ -674,5 +674,16 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_f75e0dad-0f9f-4915-9251-5565640e5dfa.xml#f75e0dad-0f9f-4915-9251-5565640e5dfa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c96fa126-bff0-4409-b819-9c7777671da9"
+      textAlignment="1"
+      content="... we check if a new estimation can be made for the project">
+    <bounds
+        x="228"
+        y="119"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
