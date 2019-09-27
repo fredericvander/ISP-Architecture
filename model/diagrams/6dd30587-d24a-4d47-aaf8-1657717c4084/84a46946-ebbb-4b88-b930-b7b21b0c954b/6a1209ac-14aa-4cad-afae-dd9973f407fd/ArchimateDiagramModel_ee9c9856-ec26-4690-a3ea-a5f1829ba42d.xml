@@ -61,33 +61,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ac95c80b-d749-4c5a-8787-ecbbbcde49ae">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a2005ba5-ae58-46ed-9c9b-9296280ed17e"
-        source="ac95c80b-d749-4c5a-8787-ecbbbcde49ae"
-        target="6f48bf70-9ee0-43a1-a6ca-b614090a1ae1">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_292c9b77-1767-49b6-9d7e-8b590750fe03.xml#292c9b77-1767-49b6-9d7e-8b590750fe03"/>
-    </sourceConnections>
     <bounds
         x="432"
         y="528"
         width="313"
         height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="6f48bf70-9ee0-43a1-a6ca-b614090a1ae1"
-        targetConnections="99e1f14a-2a75-4c06-93aa-b179a6e7d6c1 a2005ba5-ae58-46ed-9c9b-9296280ed17e">
-      <bounds
-          x="84"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_a054979e-8e55-4a41-be8c-e3aa6b86244b.xml#a054979e-8e55-4a41-be8c-e3aa6b86244b"/>
-    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_37490561-f208-4721-a83a-4998c3e5723f.xml#37490561-f208-4721-a83a-4998c3e5723f"/>
@@ -141,15 +119,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b60e2544-2c1a-421c-8c0f-3fcf57b69237"
         targetConnections="5676c346-9a85-4a8c-b8f0-ae2e3747a7dc">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="99e1f14a-2a75-4c06-93aa-b179a6e7d6c1"
-          source="b60e2544-2c1a-421c-8c0f-3fcf57b69237"
-          target="6f48bf70-9ee0-43a1-a6ca-b614090a1ae1">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_197ae186-343d-4813-abf0-bcd25ac41913.xml#197ae186-343d-4813-abf0-bcd25ac41913"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="c3ba5b21-d6f5-4d0d-8799-2923c61b6fed"
