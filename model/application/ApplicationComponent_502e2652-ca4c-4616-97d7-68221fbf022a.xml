@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SBB - MDM **"
+    name="SBB - MDM - 0.1.0"
     id="502e2652-ca4c-4616-97d7-68221fbf022a"
-    documentation="à l'étude"/>
+    documentation="à l'étude (remplace SCR et apporte fonctionnalités supplémentaires)&#xD;&#xA;Nouveau référentiel client (SCR v2)"/>

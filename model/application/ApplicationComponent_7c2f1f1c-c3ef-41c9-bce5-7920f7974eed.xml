@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB - Outil de Tests Transverses"
+    id="7c2f1f1c-c3ef-41c9-bce5-7920f7974eed"
+    documentation="Application permettant de vérifier que les applications fonctionnent bien ensemble (via tests automatiques).&#xD;&#xA;- Info supplémentaire : Outil Dockerisé déployé à la demande puis supprimé &#xD;&#xA;- HMBU : Oui"/>

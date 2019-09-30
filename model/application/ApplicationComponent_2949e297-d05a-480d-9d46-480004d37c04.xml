@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB - OSEO - 5.0.81"
+    id="2949e297-d05a-480d-9d46-480004d37c04"
+    documentation="Voix Du Client &#xD;&#xA;Permet à la fois la saisie et le suivi des insatisfactions / remarques des clients. La remontée des informations dans la VDC est gérée par mail,  par voie -postale ou par téléphone (modulo une resaisie éventuelle par hôtesse).&#xD;&#xA;&#xD;&#xA;"/>
