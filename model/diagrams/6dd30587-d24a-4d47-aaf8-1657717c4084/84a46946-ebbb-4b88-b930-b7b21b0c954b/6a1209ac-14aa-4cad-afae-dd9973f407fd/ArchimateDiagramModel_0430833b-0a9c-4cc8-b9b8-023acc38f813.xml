@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VIEW - Inhabitant project budget management - IN PROGRESS"
+    name="VIEW - Inhabitant project budget management"
     id="0430833b-0a9c-4cc8-b9b8-023acc38f813">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -148,7 +148,7 @@
       id="3009f593-9ab6-42e8-a7ce-c33f53e557d0"
       targetConnections="53d8e532-8c54-4fe2-ac72-3bd60ac8446f">
     <bounds
-        x="1740"
+        x="1752"
         y="324"
         width="181"
         height="55"/>
