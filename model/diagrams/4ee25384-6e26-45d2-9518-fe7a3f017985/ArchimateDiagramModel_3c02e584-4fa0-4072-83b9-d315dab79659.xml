@@ -153,18 +153,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="23c46480-fbe7-46b3-ae67-a0876874b70a">
-    <bounds
-        x="364"
-        y="285"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_a8c9ab57-5d1c-4971-8775-dfd8822f0af0.xml#a8c9ab57-5d1c-4971-8775-dfd8822f0af0"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="b4c383ef-98ee-4d85-a00c-ae688c906825">
     <bounds
         x="360"
