@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BD - Inhabitant project task"
-    id="772b1032-9849-4c9d-b688-64233cc5646c"/>
+    id="772b1032-9849-4c9d-b688-64233cc5646c"
+    documentation="An inhabitant project task is a task (what a surprise!!!) to be realized in order to fullfill a part of an inhabitant project. &#xD;&#xA;For instance: &quot;Paint the wall&quot;, &quot;build a wall&quot;..."/>
