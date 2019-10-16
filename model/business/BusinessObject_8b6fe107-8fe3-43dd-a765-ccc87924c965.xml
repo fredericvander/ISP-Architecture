@@ -1,9 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BD - Ticket (copy)"
-    id="8b6fe107-8fe3-43dd-a765-ccc87924c965">
-  <properties
-      key="transactionDate"/>
-  <properties
-      key="refLm/ProductId"/>
-</archimate:BusinessObject>
