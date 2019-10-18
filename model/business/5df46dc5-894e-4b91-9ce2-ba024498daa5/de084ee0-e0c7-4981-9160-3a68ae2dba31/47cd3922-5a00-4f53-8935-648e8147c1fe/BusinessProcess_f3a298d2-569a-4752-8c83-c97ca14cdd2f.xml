@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BPR - Generate or Update project tasks"
+    name="BPR - Retrieve project tasks"
     id="f3a298d2-569a-4752-8c83-c97ca14cdd2f"
     documentation="This step of the estimation process checks if a new estimation has to be provided. For instance, if the project has been updated but on criteria that do not impact the estimation, than no estimation will be made"/>
