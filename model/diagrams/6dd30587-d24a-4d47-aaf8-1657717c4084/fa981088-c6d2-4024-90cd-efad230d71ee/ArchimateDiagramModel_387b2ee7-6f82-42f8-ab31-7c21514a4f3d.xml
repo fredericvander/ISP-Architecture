@@ -363,6 +363,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3466553f-9949-4e5d-bd4f-1e98a55794ee"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80ff00">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -472,15 +473,6 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_ea3c7c75-5c49-4e4f-b9bc-daab6de7fb47.xml#ea3c7c75-5c49-4e4f-b9bc-daab6de7fb47"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="fb4eeddb-3bae-41ca-b2fb-e8046c51c941"
-        source="3466553f-9949-4e5d-bd4f-1e98a55794ee"
-        target="2b7a71e5-3f2b-4249-a626-d01643ddd0b3">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_7a3c2116-8119-45cb-ba6d-47330200086a.xml#7a3c2116-8119-45cb-ba6d-47330200086a"/>
-    </sourceConnections>
     <bounds
         x="372"
         y="284"
@@ -572,12 +564,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="247c1df5-12ae-403e-936f-8957930feb0d"
       textAlignment="1"
-      content="Exemple : Titrage, classification de photos par rayon, regroupement de photos, import critères (metadata), top GAIA">
+      content="Critérisation autour de :&#xD;&#xA;Style&#xD;&#xA;Destination (pièce)&#xD;&#xA;Présence mannequin&#xD;&#xA;Catégorie, sous catégorie (obligatoire)&#xD;&#xA;Titrage, &#xD;&#xA;classification de photos par rayon, &#xD;&#xA;regroupement de photos, &#xD;&#xA;import critères (metadata), &#xD;&#xA;top GAIA&#xD;&#xA;">
     <bounds
         x="960"
         y="132"
-        width="145"
-        height="72"/>
+        width="217"
+        height="145"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -589,39 +581,5 @@
         y="341"
         width="125"
         height="68"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="03938b0c-0741-4827-ba83-28f42dc59027">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="633f94fb-6eea-45d3-b8c8-a84ffc3c71c5"
-        source="03938b0c-0741-4827-ba83-28f42dc59027"
-        target="2b7a71e5-3f2b-4249-a626-d01643ddd0b3">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_9e8e7879-c79c-4306-b899-8f476f04ce41.xml#9e8e7879-c79c-4306-b899-8f476f04ce41"/>
-    </sourceConnections>
-    <bounds
-        x="1212"
-        y="255"
-        width="229"
-        height="113"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="2b7a71e5-3f2b-4249-a626-d01643ddd0b3"
-        targetConnections="633f94fb-6eea-45d3-b8c8-a84ffc3c71c5 fb4eeddb-3bae-41ca-b2fb-e8046c51c941">
-      <bounds
-          x="60"
-          y="24"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_04581b37-1911-4192-b94e-d04dc5a18ed6.xml#04581b37-1911-4192-b94e-d04dc5a18ed6"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_fe0441ee-de3f-438b-bdf2-30ba0ed596f9.xml#fe0441ee-de3f-438b-bdf2-30ba0ed596f9"/>
   </children>
 </archimate:ArchimateDiagramModel>

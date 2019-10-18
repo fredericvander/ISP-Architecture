@@ -129,13 +129,14 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="55c5a714-187b-4ca6-b290-3294b069e046"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Contrôle pour référencement : Identifiant de rattachement du media (ID Client, ID Frn par exemple), type  (vidéo, image)+ catégorie (ambiance par exemple)&#xD;&#xA;Dédoublonnage, Verif qualité des media&#xD;&#xA;">
     <bounds
         x="888"
         y="-4"
         width="428"
-        height="63"/>
+        height="89"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -315,8 +316,8 @@
         id="2b56e03d-13e0-4d87-8a75-6f436d6e6f7c"
         targetConnections="7afa1142-97cf-4ded-bd2d-2e28cfc381d9 5667e266-39f7-42be-874b-2094fffde7c8">
       <bounds
-          x="612"
-          y="60"
+          x="659"
+          y="62"
           width="121"
           height="52"/>
       <archimateElement
@@ -341,8 +342,8 @@
         id="c40aef1c-d443-44b8-921a-68fd7d7c1070"
         targetConnections="fa1a9611-09ec-4878-ad81-6c0774197218">
       <bounds
-          x="108"
-          y="174"
+          x="61"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -354,8 +355,8 @@
         id="f6ffa243-d86b-40a1-851b-c1f405f24cbc"
         targetConnections="2f8b8887-1f18-41f5-af4f-9fa9e7a712ff">
       <bounds
-          x="288"
-          y="174"
+          x="216"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -380,8 +381,8 @@
         id="3071719d-43dc-4dab-b69f-7164d28cedd3"
         targetConnections="6cb76a20-1214-49ac-8e46-89bc6bbbda79">
       <bounds
-          x="660"
-          y="174"
+          x="540"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -393,8 +394,8 @@
         id="cba3d8f6-e1de-4b69-8f38-478003e3c778"
         targetConnections="493aee37-9622-4e9c-84b9-fe4515cba8cf">
       <bounds
-          x="480"
-          y="174"
+          x="372"
+          y="168"
           width="120"
           height="55"/>
       <archimateElement
@@ -1068,5 +1069,57 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_9629ab81-d7d1-434a-90c6-6767da9a6b98.xml#9629ab81-d7d1-434a-90c6-6767da9a6b98"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="745a52d6-0133-4dc8-a7e4-134671a35e9a"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ff80c0"
+      content="Salle d'attente">
+    <bounds
+        x="450"
+        y="238"
+        width="115"
+        height="38"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="415c7160-9b70-40c7-b190-b4e701eb1e65"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ff80c0"
+      content="Upload&#xD;&#xA;">
+    <bounds
+        x="-253"
+        y="456"
+        width="157"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7852e4a8-3f15-407e-8354-e2098abe72ff"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ff80c0"
+      content="Indexation / critérisation">
+    <bounds
+        x="600"
+        y="48"
+        width="181"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d712f823-3613-49a7-a2a5-a4d731613e25"
+      font="1|Segoe UI|10.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ff80c0"
+      content="Catégroisation (5 meta données obligatoires)">
+    <bounds
+        x="204"
+        y="48"
+        width="211"
+        height="48"/>
   </children>
 </archimate:ArchimateDiagramModel>

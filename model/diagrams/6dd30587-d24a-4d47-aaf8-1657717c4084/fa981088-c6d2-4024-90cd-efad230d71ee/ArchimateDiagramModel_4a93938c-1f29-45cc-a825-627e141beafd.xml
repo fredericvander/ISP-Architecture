@@ -363,6 +363,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="becb33f4-ff0e-4f73-b392-aa487a972374"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#80ff00">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -604,9 +605,9 @@
       textAlignment="1"
       content="Recherche de produits (1. Par Rayon, Sous Rayon, Type et Sous Type 2. En fonction de la ou des Références LM (Saisir les Réfs LM à la main,  Copier coller les Ref. LM d'une colonne Excel, Copier coller un mail qui contient des Réfs LM) 3. En fonction de la Désignation 4. Par Fournisseur 5. Par Modèle, avec ou sans image)">
     <bounds
-        x="480"
+        x="504"
         y="132"
-        width="212"
-        height="161"/>
+        width="325"
+        height="113"/>
   </children>
 </archimate:ArchimateDiagramModel>

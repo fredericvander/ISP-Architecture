@@ -303,7 +303,7 @@
           href="TriggeringRelationship_f601afcc-64cc-4de8-94bd-8b049528a0c9.xml#f601afcc-64cc-4de8-94bd-8b049528a0c9"/>
     </sourceConnections>
     <bounds
-        x="1356"
+        x="1272"
         y="264"
         width="120"
         height="55"/>
@@ -325,7 +325,7 @@
           href="TriggeringRelationship_c763b2a1-acce-4117-bbc6-58b00d962320.xml#c763b2a1-acce-4117-bbc6-58b00d962320"/>
     </sourceConnections>
     <bounds
-        x="1548"
+        x="1572"
         y="120"
         width="120"
         height="55"/>
@@ -399,8 +399,8 @@
           href="RealizationRelationship_cf36fc66-89ff-45a6-9b2c-015b167c3b33.xml#cf36fc66-89ff-45a6-9b2c-015b167c3b33"/>
     </sourceConnections>
     <bounds
-        x="1356"
-        y="120"
+        x="1440"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -424,7 +424,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="9a896d33-de0e-4653-bbea-973244ca8dad"
       textAlignment="1"
-      content="By quizz fro example">
+      content="By quizz for example">
     <bounds
         x="744"
         y="264"
