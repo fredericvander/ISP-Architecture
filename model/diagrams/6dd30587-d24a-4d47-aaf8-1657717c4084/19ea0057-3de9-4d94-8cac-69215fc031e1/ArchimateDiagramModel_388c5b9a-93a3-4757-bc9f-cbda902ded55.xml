@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Coaching ABB"
+    name="VIEW - Coaching ABB"
     id="388c5b9a-93a3-4757-bc9f-cbda902ded55">
   <children
       xsi:type="archimate:DiagramModelGroup"

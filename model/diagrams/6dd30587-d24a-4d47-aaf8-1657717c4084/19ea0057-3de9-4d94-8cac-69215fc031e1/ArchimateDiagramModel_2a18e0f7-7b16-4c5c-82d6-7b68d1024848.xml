@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Global Coaching Process"
+    name="VIEW - Global Coaching Process"
     id="2a18e0f7-7b16-4c5c-82d6-7b68d1024848">
   <children
       xsi:type="archimate:DiagramModelGroup"

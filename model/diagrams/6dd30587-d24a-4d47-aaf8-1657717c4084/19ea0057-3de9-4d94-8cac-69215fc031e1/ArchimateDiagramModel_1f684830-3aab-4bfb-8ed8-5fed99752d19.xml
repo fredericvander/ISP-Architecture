@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virtual Coaching Process"
+    name="VIEW - Virtual Coaching Process"
     id="1f684830-3aab-4bfb-8ed8-5fed99752d19">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
