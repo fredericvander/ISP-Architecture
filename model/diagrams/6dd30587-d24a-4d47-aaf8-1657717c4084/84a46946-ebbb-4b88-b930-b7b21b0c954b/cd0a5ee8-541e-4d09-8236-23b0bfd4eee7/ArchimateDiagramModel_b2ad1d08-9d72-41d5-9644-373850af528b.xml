@@ -1,7 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VIEW - ABB - Inhabitant project budget estimation"
     id="b2ad1d08-9d72-41d5-9644-373850af528b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
