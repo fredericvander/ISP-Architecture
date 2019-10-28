@@ -141,4 +141,15 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_6b56e5a0-4d7a-4c66-a53e-f953a8a14762.xml#6b56e5a0-4d7a-4c66-a53e-f953a8a14762"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9f6bfd7f-7dc8-42ee-a3e5-131760b6d7ff"
+      textAlignment="1"
+      content="Réféchir à apparaitre les outils de monitoring???">
+    <bounds
+        x="74"
+        y="297"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

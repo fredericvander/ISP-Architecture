@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VIEW - Project model"
+    name="VIEW - Inhabitant project model"
     id="ec710481-56a8-43a4-9019-c103f1b59963">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -95,8 +95,8 @@
       id="f4990485-7da6-4cca-94bf-d3b4d619eab3"
       targetConnections="0dff15be-d611-4637-ace5-22806ce8bb22">
     <bounds
-        x="312"
-        y="228"
+        x="696"
+        y="24"
         width="169"
         height="97"/>
     <archimateElement

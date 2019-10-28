@@ -255,9 +255,20 @@
         x="840"
         y="480"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_92ce1822-32cf-47d2-82ed-6d5ccfc24bd7.xml#92ce1822-32cf-47d2-82ed-6d5ccfc24bd7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="266b86ea-234d-4c3b-b608-480527c8fba4"
+      textAlignment="1"
+      content="Préciser le qui fait quoi au niveau du triggering&#xD;&#xA;&#xD;&#xA;Rendre visible l'ABB de la gestion commerciale">
+    <bounds
+        x="804"
+        y="156"
+        width="433"
+        height="229"/>
   </children>
 </archimate:ArchimateDiagramModel>

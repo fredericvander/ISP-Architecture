@@ -260,4 +260,15 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_53cda01e-a3aa-408d-9c60-34a0ab0cd83f.xml#53cda01e-a3aa-408d-9c60-34a0ab0cd83f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="da5b53a6-1311-4ed3-8391-136548404bee"
+      textAlignment="1"
+      content="Ajouter une gestion des &quot;identités digitales&quot;">
+    <bounds
+        x="987"
+        y="122"
+        width="154"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

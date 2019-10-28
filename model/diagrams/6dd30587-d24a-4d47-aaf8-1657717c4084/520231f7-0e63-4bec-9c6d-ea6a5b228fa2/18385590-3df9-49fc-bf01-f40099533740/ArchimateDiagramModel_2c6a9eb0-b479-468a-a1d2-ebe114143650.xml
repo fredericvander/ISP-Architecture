@@ -155,19 +155,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="d98d3fef-d55b-49ef-a3ff-e49c464aae46"
-        targetConnections="edcb29b0-7236-4afb-bd2a-eb8da88e240c">
-      <bounds
-          x="192"
-          y="348"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_4e72aabc-5dac-49a5-80fa-c2d20f1efdf9.xml#4e72aabc-5dac-49a5-80fa-c2d20f1efdf9"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="a7a6373b-e1a5-425a-bfda-287538b6299e"
         targetConnections="d3e428ff-488c-43aa-b01c-ec04615154c2">
       <bounds
@@ -251,6 +238,19 @@
           width="432"
           height="80"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d98d3fef-d55b-49ef-a3ff-e49c464aae46"
+        targetConnections="edcb29b0-7236-4afb-bd2a-eb8da88e240c">
+      <bounds
+          x="192"
+          y="348"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_4e72aabc-5dac-49a5-80fa-c2d20f1efdf9.xml#4e72aabc-5dac-49a5-80fa-c2d20f1efdf9"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_3c766a23-cb49-4d2d-bbdf-be1d4913f984.xml#3c766a23-cb49-4d2d-bbdf-be1d4913f984"/>
@@ -267,5 +267,16 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_5efec0b8-a949-4d5c-94c0-74af4454dfaa.xml#5efec0b8-a949-4d5c-94c0-74af4454dfaa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1cf8e16e-1ee4-403c-9b36-a08814759572"
+      textAlignment="1"
+      content="Préciser Que les données sont pour la réconcialitation....">
+    <bounds
+        x="27"
+        y="340"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
