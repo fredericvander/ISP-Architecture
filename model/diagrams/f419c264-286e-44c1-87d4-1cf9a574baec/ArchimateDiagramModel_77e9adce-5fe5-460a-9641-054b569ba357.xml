@@ -563,4 +563,16 @@
         xsi:type="archimate:Outcome"
         href="Outcome_da1619c6-06a3-4eac-aaab-edfc1cc4c3c2.xml#da1619c6-06a3-4eac-aaab-edfc1cc4c3c2"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d5777936-7254-4fe3-b52a-544e97de3ef3">
+    <bounds
+        x="19"
+        y="498"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_91542154-c3b0-4f53-8dde-6027c4d1bfbd.xml#91542154-c3b0-4f53-8dde-6027c4d1bfbd"/>
+  </children>
 </archimate:ArchimateDiagramModel>
