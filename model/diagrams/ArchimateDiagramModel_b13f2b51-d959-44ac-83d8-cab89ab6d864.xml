@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PSH SBB par BU - LMUA"
+    id="b13f2b51-d959-44ac-83d8-cab89ab6d864">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7037e905-803d-4db9-a2bf-91022caa7941">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d42a249b-c506-4015-b194-0eba4895ca1e"
+        source="7037e905-803d-4db9-a2bf-91022caa7941"
+        target="f8051343-c8a8-489b-b903-64f2e4f30e56">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_c98af820-7b5c-4956-8bfa-303035cdcf03.xml#c98af820-7b5c-4956-8bfa-303035cdcf03"/>
+    </sourceConnections>
+    <bounds
+        x="434"
+        y="87"
+        width="407"
+        height="154"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f8051343-c8a8-489b-b903-64f2e4f30e56"
+        targetConnections="d42a249b-c506-4015-b194-0eba4895ca1e">
+      <bounds
+          x="153"
+          y="50"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_c9000404-9626-416a-aa55-c5292255f342.xml#c9000404-9626-416a-aa55-c5292255f342"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_6429c585-bc10-42fa-9306-e0d80fa11247.xml#6429c585-bc10-42fa-9306-e0d80fa11247"/>
+  </children>
+</archimate:ArchimateDiagramModel>

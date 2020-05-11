@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB - HOMMY"
+    id="27100036-abfa-4b82-8f29-5a1d040d630e"
+    documentation="  Reconnaissance d'objets à partir d'une photographie &amp; comparaison par rapport au catalogue de produits ADEO (LMFR, Zodio, etc)&#xD;&#xA;- HMBU : ? &#xD;&#xA;- Info supplémentaire : PoC réalisé à partir d'avril 2019 "/>

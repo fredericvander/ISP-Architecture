@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBB - BAZAAR VOICE"
+    id="621d26f8-5750-460e-a268-8af7d58b12dd"
+    documentation="Avis produits (API) - Product Reviews&#xD;&#xA;Description : Application récupérant les avis des clients sur les produits. Permet une analyse et un partage de ces informations - Directement géré par la BU sauf la partie API &#xD;&#xA;HMBU : Oui en V19.2&#xD;&#xA;&#xD;&#xA;"/>

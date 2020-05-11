@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BS - Download Media"
+    id="a50d2318-95cc-4cb6-a13a-8d4d9059a9f1"
+    documentation="associate a media to products, inhabitants, suppliers,"/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Has sense in "
+    id="05e5c450-5729-42a1-bd4a-3f5aa90be24a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_4ce53d8c-0bdf-4aa8-8f12-f3b6aec70c82.xml#4ce53d8c-0bdf-4aa8-8f12-f3b6aec70c82"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8082d215-eb31-483c-b054-30cbc64fb2d6.xml#8082d215-eb31-483c-b054-30cbc64fb2d6"/>
+</archimate:AssociationRelationship>

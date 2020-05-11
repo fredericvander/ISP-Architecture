@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="workview"
+    id="50d91c89-ecb8-4f96-8e43-8fd7d6587922">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f898e615-651d-482c-a5aa-701bf3cfd419">
+    <bounds
+        x="-312"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_68155330-987e-4f54-8758-049ad5a34d93.xml#68155330-987e-4f54-8758-049ad5a34d93"/>
+  </children>
+</archimate:ArchimateDiagramModel>

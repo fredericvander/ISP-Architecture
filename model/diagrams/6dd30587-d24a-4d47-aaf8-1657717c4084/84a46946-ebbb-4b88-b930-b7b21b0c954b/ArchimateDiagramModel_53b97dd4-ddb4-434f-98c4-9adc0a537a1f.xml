@@ -1,0 +1,117 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VIEW - Inhabitant project business products"
+    id="53b97dd4-ddb4-434f-98c4-9adc0a537a1f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e847a335-a727-4f75-a946-c1017b68a7b1">
+    <bounds
+        x="168"
+        y="36"
+        width="985"
+        height="577"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="5925978e-926c-483a-ab28-46c6d407b174"
+        name="Budget estimate"
+        textAlignment="1">
+      <bounds
+          x="11"
+          y="78"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="7cd4c11a-25b4-48b6-82ea-70bb31c4a8d5"
+        name="Budget manager"
+        textAlignment="1">
+      <bounds
+          x="11"
+          y="240"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="e1cbbe0f-9647-4c55-bcd7-ffeabce4bd50"
+        name="Project planner"
+        textAlignment="1">
+      <bounds
+          x="11"
+          y="408"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="f929f81d-baf9-4c11-bbd1-f1b030c9f179"
+        name="Project data"
+        textAlignment="1">
+      <bounds
+          x="336"
+          y="78"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="03c53618-75fe-4f3a-bdf7-794ece33dd23"
+        name="Professional"
+        textAlignment="1">
+      <bounds
+          x="336"
+          y="240"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="dd2dddb0-42f5-49bd-a9ca-52c550a7635a"
+        name="Data and social"
+        textAlignment="1">
+      <bounds
+          x="336"
+          y="408"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="9ef10e6a-aa46-4a4e-a515-3b72b063c361"
+        name="DIY tools"
+        textAlignment="1">
+      <bounds
+          x="660"
+          y="78"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="863312fd-3e61-47ae-ad5a-ee9ef5370e76"
+        name="Wishlist"
+        textAlignment="1">
+      <bounds
+          x="660"
+          y="240"
+          width="290"
+          height="140"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="3d2fbe71-c387-4c98-9e4e-27af84f350e8"
+        name="Personal assistant"
+        textAlignment="1">
+      <bounds
+          x="660"
+          y="408"
+          width="290"
+          height="140"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_1c4c0e68-5b2b-4bab-94d7-45dde7c436af.xml#1c4c0e68-5b2b-4bab-94d7-45dde7c436af"/>
+  </children>
+</archimate:ArchimateDiagramModel>
