@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c44354c4-e186-4d99-8227-d2c5c16cb2ad">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a7d6fd20-46ed-4ee0-8cc3-6f8810327977.xml#a7d6fd20-46ed-4ee0-8cc3-6f8810327977"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_d23dc286-094a-49c2-a2df-f9aa6907a317.xml#d23dc286-094a-49c2-a2df-f9aa6907a317"/>
+</archimate:RealizationRelationship>
