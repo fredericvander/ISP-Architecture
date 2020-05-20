@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Use case - Profile creation with FB"
+    name="Use case 1 - Profile creation with FB"
     id="18d7a511-8b2a-4ca4-bd58-a43039a6098b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -130,19 +130,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1e7ce0b2-fafe-43f5-963e-d7496bb34227"
       targetConnections="c8375133-5e38-4066-a2bb-45bb16c62eb4">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="04712a2f-98a4-45e4-a3bd-36828a88cd29"
-        source="1e7ce0b2-fafe-43f5-963e-d7496bb34227"
-        target="8d550691-f115-42e2-a83a-4e3d4814e8a4">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_f40f3a38-1586-4eda-bdd1-ffec229fa919.xml#f40f3a38-1586-4eda-bdd1-ffec229fa919"/>
-    </sourceConnections>
     <bounds
-        x="1676"
-        y="816"
-        width="221"
+        x="1848"
+        y="696"
+        width="197"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
@@ -188,8 +179,8 @@
           href="RealizationRelationship_a414d178-3fd6-4f8d-a589-7a3ac60f8802.xml#a414d178-3fd6-4f8d-a589-7a3ac60f8802"/>
     </sourceConnections>
     <bounds
-        x="217"
-        y="628"
+        x="228"
+        y="464"
         width="348"
         height="317"/>
     <children
@@ -303,22 +294,22 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="036d25ab-ee2b-4433-a368-62bc11cd082f"
+        id="7bee8a09-6b80-4115-ba42-1f890cb0674b"
         source="9a209a70-5127-4bfd-b31b-47a135349d05"
-        target="b3992bb0-275c-4eb3-92b0-ee33ac140ca9">
+        target="9a478575-a0c6-4864-ac62-5ef1ef0df712">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_d95fd31a-9608-4d93-968f-b22c555e6518.xml#d95fd31a-9608-4d93-968f-b22c555e6518"/>
+          href="RealizationRelationship_f0ce2b6a-39a1-46d0-9725-6efc5d70b110.xml#f0ce2b6a-39a1-46d0-9725-6efc5d70b110"/>
     </sourceConnections>
     <bounds
         x="1125"
         y="590"
         width="337"
-        height="189"/>
+        height="191"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8d550691-f115-42e2-a83a-4e3d4814e8a4"
-        targetConnections="9fab33dc-6167-483f-9a71-abb0ccce8696 04712a2f-98a4-45e4-a3bd-36828a88cd29 b08a29ac-299b-449a-bf74-be32f49ec95c">
+        targetConnections="9fab33dc-6167-483f-9a71-abb0ccce8696 b08a29ac-299b-449a-bf74-be32f49ec95c">
       <bounds
           x="48"
           y="48"
@@ -330,8 +321,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="b3992bb0-275c-4eb3-92b0-ee33ac140ca9"
-        targetConnections="036d25ab-ee2b-4433-a368-62bc11cd082f">
+        id="9a478575-a0c6-4864-ac62-5ef1ef0df712"
+        targetConnections="7bee8a09-6b80-4115-ba42-1f890cb0674b 390ef0b4-213f-49a6-a00b-b4559fbbbbab">
       <bounds
           x="48"
           y="108"
@@ -339,7 +330,7 @@
           height="49"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
-          href="BusinessService_ac14cfb5-311c-4b0f-bd5e-d9f123dd5d3b.xml#ac14cfb5-311c-4b0f-bd5e-d9f123dd5d3b"/>
+          href="BusinessService_dc1ba21f-b93c-4d81-bf1c-827845444d2b.xml#dc1ba21f-b93c-4d81-bf1c-827845444d2b"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -358,10 +349,19 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_3442998a-129b-4106-92a3-cb9b27714c77.xml#3442998a-129b-4106-92a3-cb9b27714c77"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="390ef0b4-213f-49a6-a00b-b4559fbbbbab"
+        source="5aa28acb-17be-460a-9cd2-ea051c8d523c"
+        target="9a478575-a0c6-4864-ac62-5ef1ef0df712">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_37ededc8-346f-408a-913c-ee4dbaa42d2b.xml#37ededc8-346f-408a-913c-ee4dbaa42d2b"/>
+    </sourceConnections>
     <bounds
-        x="1676"
-        y="729"
-        width="241"
+        x="1567"
+        y="696"
+        width="221"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -762,8 +762,8 @@
       textAlignment="1"
       content="Qui demande ces consentements???&#xA;CIAM - ">
     <bounds
-        x="33"
-        y="784"
+        x="40"
+        y="586"
         width="185"
         height="73"/>
   </children>
