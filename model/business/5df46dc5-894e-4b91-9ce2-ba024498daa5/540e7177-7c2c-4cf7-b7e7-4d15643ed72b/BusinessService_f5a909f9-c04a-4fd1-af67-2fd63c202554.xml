@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BS - Qualify project"
-    id="f5a909f9-c04a-4fd1-af67-2fd63c202554"/>
+    name="BS - Qualify project for estimation"
+    id="f5a909f9-c04a-4fd1-af67-2fd63c202554"
+    documentation="Questions spécifiques pour l'estimation"/>

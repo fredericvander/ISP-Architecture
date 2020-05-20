@@ -352,9 +352,9 @@
       content="En tant que futur client LM, je peux créer mon profil via le FB connect. Mon compte LM SA est précrée et je n’ai plus qu’à le compléter.">
     <bounds
         x="12"
-        y="36"
+        y="9"
         width="541"
-        height="157"/>
+        height="85"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
