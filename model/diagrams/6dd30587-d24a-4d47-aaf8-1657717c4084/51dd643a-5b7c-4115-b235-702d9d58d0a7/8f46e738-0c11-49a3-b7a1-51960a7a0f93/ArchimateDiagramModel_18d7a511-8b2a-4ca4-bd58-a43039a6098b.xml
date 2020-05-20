@@ -677,7 +677,7 @@
             href="TriggeringRelationship_b5be1503-f66d-4259-97c0-090476f86ec2.xml#b5be1503-f66d-4259-97c0-090476f86ec2"/>
       </sourceConnections>
       <bounds
-          x="228"
+          x="252"
           y="36"
           width="204"
           height="55"/>
@@ -879,7 +879,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="b052900e-18f5-4f49-840d-ba22e77f2f64"
       textAlignment="1"
-      content="Qui demande ces consentements???&#xA;CIAM - ">
+      content="Consent donné à FB">
     <bounds
         x="520"
         y="228"
@@ -1067,7 +1067,7 @@
           href="TriggeringRelationship_63622f64-3d0d-4c3e-b84d-5538247d4199.xml#63622f64-3d0d-4c3e-b84d-5538247d4199"/>
     </sourceConnections>
     <bounds
-        x="1392"
+        x="1344"
         y="288"
         width="157"
         height="55"/>
