@@ -736,14 +736,14 @@
           target="bcd76df0-9bee-4512-b9be-e9ffca66df07">
         <bendpoints
             startX="6"
-            startY="813"
+            startY="837"
             endX="1566"
-            endY="172"/>
+            endY="196"/>
         <bendpoints
             startX="-1458"
-            startY="813"
+            startY="837"
             endX="102"
-            endY="172"/>
+            endY="196"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_2fee5dd7-d178-44fa-a5b7-d6dc6887d90a.xml#2fee5dd7-d178-44fa-a5b7-d6dc6887d90a"/>
