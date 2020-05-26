@@ -492,15 +492,4 @@
         width="169"
         height="97"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="bebeff45-0236-40b3-90cc-e492c7c08ff4"
-      textAlignment="1"
-      content="!!! WARNING !!!&#xA;Currently, e-mail has to be the same in order to link authentication tokens !!!">
-    <bounds
-        x="21"
-        y="624"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>

@@ -9,8 +9,8 @@
       textAlignment="1"
       content="En tant que futur coach, je me connecte à mon compte LMSA et propose via le nouveau service communautaire une session de coaching dans l’atelier de mon Leroy Merlin. Je suis alors identifié comme coach et de nouveaux services me sont proposés sur mon espace profil.">
     <bounds
-        x="35"
-        y="23"
+        x="12"
+        y="12"
         width="434"
         height="86"/>
   </children>
@@ -362,10 +362,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="a61764e9-bfd2-458d-836d-5c644925e79b"
       textAlignment="1"
-      content="??? Qui est responsable de cette liste de features ???">
+      content="??? Qui est responsable de cette liste de features ???&#xA;TO BE DEFINED">
     <bounds
-        x="623"
-        y="48"
+        x="618"
+        y="72"
         width="182"
         height="61"/>
   </children>
