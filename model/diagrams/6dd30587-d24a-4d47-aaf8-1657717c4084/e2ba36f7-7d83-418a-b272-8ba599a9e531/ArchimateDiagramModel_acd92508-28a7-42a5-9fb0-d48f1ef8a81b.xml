@@ -35,9 +35,9 @@
       </sourceConnections>
       <bounds
           x="780"
-          y="701"
+          y="672"
           width="301"
-          height="164"/>
+          height="217"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="e759e921-16c7-4953-80a2-e113b60577e4"
@@ -51,11 +51,20 @@
               xsi:type="archimate:RealizationRelationship"
               href="RealizationRelationship_b6bd4c5a-35f1-4194-80a3-985a558e6661.xml#b6bd4c5a-35f1-4194-80a3-985a558e6661"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="ba64b7f7-b329-4360-b2b3-519b6e9a0c81"
+            source="e759e921-16c7-4953-80a2-e113b60577e4"
+            target="45ca16f6-86dc-446d-8717-eb135cb63a53">
+          <archimateRelationship
+              xsi:type="archimate:AccessRelationship"
+              href="AccessRelationship_46b90520-f55d-4fef-8359-4e64efc9b14b.xml#46b90520-f55d-4fef-8359-4e64efc9b14b"/>
+        </sourceConnections>
         <bounds
             x="36"
             y="48"
             width="217"
-            height="97"/>
+            height="157"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="1f9ac94b-7ec6-4c80-850b-ce59966e3931"
@@ -68,6 +77,19 @@
           <archimateElement
               xsi:type="archimate:BusinessService"
               href="BusinessService_9e14e810-d2cc-426a-9709-0e1b7b58e611.xml#9e14e810-d2cc-426a-9709-0e1b7b58e611"/>
+        </children>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="45ca16f6-86dc-446d-8717-eb135cb63a53"
+            targetConnections="ba64b7f7-b329-4360-b2b3-519b6e9a0c81">
+          <bounds
+              x="55"
+              y="84"
+              width="120"
+              height="55"/>
+          <archimateElement
+              xsi:type="archimate:BusinessObject"
+              href="BusinessObject_daa3715d-67fc-4bc0-a695-5c8cdebeb7ad.xml#daa3715d-67fc-4bc0-a695-5c8cdebeb7ad"/>
         </children>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
