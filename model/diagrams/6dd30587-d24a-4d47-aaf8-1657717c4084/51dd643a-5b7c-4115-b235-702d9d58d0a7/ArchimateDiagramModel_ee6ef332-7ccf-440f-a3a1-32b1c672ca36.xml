@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Empowerment, Profile and Network - Goals and Outcomes - VIEW"
+    id="ee6ef332-7ccf-440f-a3a1-32b1c672ca36">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="811a188f-45e7-449a-a9cc-0b1602ce7e70">
+    <bounds
+        x="168"
+        y="84"
+        width="277"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_c5d49050-72b7-4bcf-90a4-ead783f01db7.xml#c5d49050-72b7-4bcf-90a4-ead783f01db7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="01f8b5da-b6ef-4fb2-8499-a473db066a15">
+    <bounds
+        x="288"
+        y="264"
+        width="325"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_9b3d8bad-7567-41c6-b33a-4b1d1f8efd18.xml#9b3d8bad-7567-41c6-b33a-4b1d1f8efd18"/>
+  </children>
+</archimate:ArchimateDiagramModel>
