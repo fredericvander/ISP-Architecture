@@ -984,4 +984,15 @@
         xsi:type="archimate:Capability"
         href="Capability_b009385c-f8ec-46ae-9a3e-f3fd3fb8bdd9.xml#b009385c-f8ec-46ae-9a3e-f3fd3fb8bdd9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="aefe980d-1799-4b8b-98b3-fbced4ccbded"
+      textAlignment="1"
+      content="un habitant a réalisé son projet apres l'avoir declaré et utiliser les outils disponibles dans project booster &#xA;l'habitant recoit une communication lui proposant de telecharger une photo de son projet&#xA;l'habitant il clique sur le lien du mail qui lui propose de publier une photo pour gagner des points (gamification)/ contribuer à la communauté&#xA;il est redirigé vers la page d'authentification&#xA;il attéri sur une page qui l'informe des gains à poster une foto de sa réalisation &#xA;il attéri sur son fil dactualité personnel&#xA;si l'habitant a un profil la page pour poster s'ouvre automatiquement, dans le cas contraire il doit creer son profil communautaire &#xA;il décrit son contenu et met des tags (autosugéré)&#xA;il télécharge son contenu multimédia (photos, video)&#xA;il choisi l'audience qui pourra acceder à son post&#xA;il post son contenu &#xA;son contenu est visible sur son profi&#xA;en parrallele le contenu est modere et metadaté&#xA;en parrallere le contenu est sauvegardé dans daméo &#xA;une fois modéré le contenu est visible sur l'espace communautaire &#xA;le produit est rataché aux produits identifiés par la reco visuelle&#xA;le fait d'avoir publié sur la communauté fait gagner des points à l'utilisateurs &#xA;desormais sur la page produit d'un des present sur la photo, apparait la photo de la réalisation de l'habitant ">
+    <bounds
+        x="12"
+        y="12"
+        width="853"
+        height="288"/>
+  </children>
 </archimate:ArchimateDiagramModel>
