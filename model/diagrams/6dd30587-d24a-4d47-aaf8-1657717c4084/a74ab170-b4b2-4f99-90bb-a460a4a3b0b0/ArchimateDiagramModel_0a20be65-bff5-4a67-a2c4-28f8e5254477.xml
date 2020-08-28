@@ -16,7 +16,8 @@
         height="328"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ed12a74f-ee59-4199-b39c-0b9b1b9e57ee">
+        id="ed12a74f-ee59-4199-b39c-0b9b1b9e57ee"
+        targetConnections="c5c9ad56-f0dd-4e4a-b40d-2a5d776f4fff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="552679f8-e9ee-4750-9cc8-92baac4ed7a1"
@@ -43,6 +44,15 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7928da96-783f-427c-990a-97f2f463d245">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="c5c9ad56-f0dd-4e4a-b40d-2a5d776f4fff"
+          source="7928da96-783f-427c-990a-97f2f463d245"
+          target="ed12a74f-ee59-4199-b39c-0b9b1b9e57ee">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_925dcf3e-8a70-455a-8c3e-fdb9d24edf89.xml#925dcf3e-8a70-455a-8c3e-fdb9d24edf89"/>
+      </sourceConnections>
       <bounds
           x="48"
           y="240"
@@ -51,6 +61,18 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_9bedac4c-62d8-40f7-a234-b4dd77718a99.xml#9bedac4c-62d8-40f7-a234-b4dd77718a99"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c58a9204-a9ad-4459-af60-4b20c7b4f28b">
+      <bounds
+          x="48"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_1391f69c-e306-4fee-ba55-da84722ba56f.xml#1391f69c-e306-4fee-ba55-da84722ba56f"/>
     </children>
   </children>
   <children
@@ -801,11 +823,24 @@
       xsi:type="archimate:DiagramModelNote"
       id="b2d218d4-056b-4201-b5ab-a2048b90e9ec"
       textAlignment="1"
-      content="INFO&#xA;">
+      fillColor="#25cd37"
+      content="INFO&#xA;Regarding the daily full load, note that BZV does the same flow with Cdiscount for 60 millions products">
     <bounds
         x="1512"
         y="36"
         width="529"
         height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="68e9811c-1062-4534-8b4f-edda06c334a4"
+      textAlignment="1"
+      fillColor="#ffab47"
+      content="WARNING&#xA;- This option prevent from sharing reviews between &quot;variants&quot;. It does work from productreview sharing, but not for variants. Only using 1 BZV instance will allow to share reviews between variants of a single product.&#xA;- This option only works if there is one instance for each BU because products informations are fetched from Opus (and there is also one opus per BU). If we decide to use only one BazaarVoice instance, we will have to retrieve data from the Product repo, but what about the publication information?&#xA;&#xA;=> Business to decide">
+    <bounds
+        x="1512"
+        y="144"
+        width="529"
+        height="145"/>
   </children>
 </archimate:ArchimateDiagramModel>
