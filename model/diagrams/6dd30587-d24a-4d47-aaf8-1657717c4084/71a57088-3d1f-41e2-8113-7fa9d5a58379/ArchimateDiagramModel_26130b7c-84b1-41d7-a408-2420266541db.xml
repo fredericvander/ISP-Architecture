@@ -1,0 +1,72 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messageo - VIEW"
+    id="26130b7c-84b1-41d7-a408-2420266541db">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7f2837a3-cef2-401f-8fe9-997f82f8fa99"
+      textAlignment="1"
+      content="Text messaging:&#xA;whatsapp, sms, whatsapp, viber...&#xA;&#xA;Asynchrone&#xA;Trace écrite">
+    <bounds
+        x="95"
+        y="82"
+        width="185"
+        height="111"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="155367cb-97aa-4672-9848-3873731e6788"
+      textAlignment="1"
+      content="Human perimeter:&#xA;&#xA;potentiel multi parties&#xA;&#xA;Aujourd'hui, comm' entrante vérifiée / Référentiel client">
+    <bounds
+        x="336"
+        y="82"
+        width="185"
+        height="111"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1d69fef1-b600-4603-8c4f-1ea448775730"
+      textAlignment="1"
+      content="Notion de &quot;chronique&quot; : Fil de discussion">
+    <bounds
+        x="600"
+        y="82"
+        width="185"
+        height="111"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ef9c5bb7-40b9-461d-9c6b-e7b50f78fed7"
+      textAlignment="1"
+      content="Notion de &quot;groupe&quot; : ">
+    <bounds
+        x="972"
+        y="82"
+        width="185"
+        height="111"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1c2b8f3f-c65c-401c-accf-c4ff8113143b"
+      textAlignment="1"
+      content="TWILIO -> SMS, whatsapp, mail">
+    <bounds
+        x="1272"
+        y="82"
+        width="185"
+        height="111"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1522549d-9077-4528-a258-d20f2da0c45c"
+      textAlignment="1"
+      content="Données client:&#xA;- phone number&#xA;- social id&#xA;- civility&#xA;- Firstname/lastname&#xA;- ">
+    <bounds
+        x="1536"
+        y="82"
+        width="185"
+        height="111"/>
+  </children>
+</archimate:ArchimateDiagramModel>

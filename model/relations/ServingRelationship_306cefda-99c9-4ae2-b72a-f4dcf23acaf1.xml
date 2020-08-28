@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inhabitant Review"
+    id="306cefda-99c9-4ae2-b72a-f4dcf23acaf1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c202af3e-60fa-49ee-a0ca-1f3ebbb60629.xml#c202af3e-60fa-49ee-a0ca-1f3ebbb60629"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_c9c0c89a-cd5c-41bf-a5e6-1374b21fc6c4.xml#c9c0c89a-cd5c-41bf-a5e6-1374b21fc6c4"/>
+</archimate:ServingRelationship>
