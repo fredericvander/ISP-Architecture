@@ -836,7 +836,7 @@
       id="68e9811c-1062-4534-8b4f-edda06c334a4"
       textAlignment="1"
       fillColor="#ffab47"
-      content="WARNING&#xA;- This option prevent from sharing reviews between &quot;variants&quot;. It does work from productreview sharing, but not for variants. Only using 1 BZV instance will allow to share reviews between variants of a single product.&#xA;- This option only works if there is one instance for each BU because products informations are fetched from Opus (and there is also one opus per BU). If we decide to use only one BazaarVoice instance, we will have to retrieve data from the Product repo, but what about the publication information?&#xA;&#xA;=> Business to decide">
+      content="WARNING&#xA;- This option prevent from sharing reviews between &quot;variants&quot;. It does work from product review sharing, but not for variants. Only using 1 BZV instance will allow to share reviews between variants of a single product.&#xA;- This option only works if there is one instance for each BU because products informations are fetched from Opus (and there is also one opus per BU). If we decide to use only one BazaarVoice instance, we will have to retrieve data from the Product repo, but what about the publication information?&#xA;&#xA;=> Business to decide">
     <bounds
         x="1512"
         y="144"
