@@ -1,0 +1,13 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BD - Mention"
+    id="8639b87e-2141-43b3-8820-d4a5e2df196b">
+  <properties
+      key="topic"/>
+  <properties
+      key="Content"/>
+  <properties
+      key="Publication date"/>
+  <properties
+      key="Source"/>
+</archimate:BusinessObject>
