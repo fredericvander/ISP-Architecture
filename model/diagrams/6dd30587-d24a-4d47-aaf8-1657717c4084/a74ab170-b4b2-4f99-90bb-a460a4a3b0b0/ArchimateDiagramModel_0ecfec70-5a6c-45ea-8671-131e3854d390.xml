@@ -219,28 +219,6 @@
         href="ApplicationComponent_14de7e29-bfd9-4be2-a13a-3b6d02903b8a.xml#14de7e29-bfd9-4be2-a13a-3b6d02903b8a"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="a69c1035-b165-40ae-9e1d-f9b9a34df3ab"
-      textAlignment="1"
-      content="Review posted &amp; commented">
-    <bounds
-        x="1282"
-        y="34"
-        width="157"
-        height="43"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="42830e52-ecff-4201-bbfb-5631c510a905"
-      textAlignment="1"
-      content="Mails sent to client around product review (request product review, validation, refused...)&#xA;">
-    <bounds
-        x="1162"
-        y="94"
-        width="337"
-        height="43"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2924dcea-00a7-462b-aa9c-dde94bb5e3d8">
     <sourceConnections
@@ -473,18 +451,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="9d48e320-5de3-4eb7-8272-071187e262ee"
-      textAlignment="1"
-      fillColor="#ff7d78"
-      content="Quid de l'aenir de Pyxis vs TEMPÒ">
-    <bounds
-        x="828"
-        y="1020"
-        width="373"
-        height="121"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="4a6acfe2-8d53-42d4-9ee1-63945c585332"
       textAlignment="1"
       content="DATA:&#xA;- Products (list)&#xA;-- product.imageUrl">
@@ -523,8 +489,8 @@
       fillColor="#ff7d78"
       content="Vérifier existence de tous les datasets&#xA;Tempo vs shoppingCo vs Pyxis&#xA;Confirmer imageURL&#xA;Quel DataSet : MDM vs SCR">
     <bounds
-        x="1320"
-        y="252"
+        x="1716"
+        y="26"
         width="373"
         height="123"/>
   </children>
@@ -535,20 +501,8 @@
       fillColor="#ff7d78"
       content="Faire apparaître NEOLAN + Mail auto (remerciement)&#xA;Attention : vérifier si client a déjà vérifié si avis déjà posté">
     <bounds
-        x="1632"
-        y="468"
-        width="373"
-        height="123"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="dde7bf71-e7af-47ca-9e55-1b4a2c06c848"
-      textAlignment="1"
-      fillColor="#ff7d78"
-      content="Faire apparaître les fonctions supportées par les briques">
-    <bounds
-        x="1704"
-        y="652"
+        x="1944"
+        y="156"
         width="373"
         height="123"/>
   </children>
