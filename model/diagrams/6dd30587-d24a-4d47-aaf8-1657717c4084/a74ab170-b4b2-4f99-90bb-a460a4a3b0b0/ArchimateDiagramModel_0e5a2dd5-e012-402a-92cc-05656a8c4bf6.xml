@@ -1,6 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDP - Product Review Management - Final Target OLD AFAC - VIEW"
     id="0e5a2dd5-e012-402a-92cc-05656a8c4bf6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -221,8 +222,8 @@
       fillColor="#00fa92"
       content="To get the most out of the Bazaarvoice platform, we must provide data about product catalog to Bazaarvoice. This includes data about &#xA;- the brands&#xA;- product categories&#xA;- products ">
     <bounds
-        x="189"
-        y="-282"
+        x="-2"
+        y="-72"
         width="303"
         height="109"/>
   </children>
@@ -230,12 +231,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="e58a6a7a-2151-44cd-96e9-e2f75edff679"
       textAlignment="1"
-      content="DATA:&#xA;BRAND&#xA;- Brand.externald (R)&#xA;- Brand.name (R)&#xA;CATEGORY (product category)&#xA;- Category.externalId (R)&#xA;- Category.name (R)&#xA;PRODUCT&#xA;- Product.externalId (R) (actuellement idEboc)&#xA;- Product.modelNumber (actuellement refLM)&#xA;- Product.name (R)&#xA;- Product.brand (R) &#xA;- Product.category (R)&#xA;- Product.ImageURL (R)&#xA;- Product.EAN (R*) (either UPC, or EAN or ISBN is required)&#xA;- Product.UPC (R*)&#xA;- Product.ISBN (R*)">
+      content="DATA:&#xA;BRAND&#xA;- Brand.externald (R)&#xA;- Brand.name (R)&#xA;CATEGORY (product category)&#xA;- Category.externalId (R)&#xA;- Category.name (R)&#xA;PRODUCT&#xA;- Product.externalId (R) (actuellement idEboc)&#xA;- Product.modelNumber (actuellement refLM)&#xA;- Product.name (R)&#xA;- Product.brand (R) &#xA;- Product.category (R)&#xA;- Product.ImageURL (R)&#xA;- Product.EAN (R*) (either UPC, or EAN or ISBN is required)&#xA;- Product.UPC (R*)&#xA;- Product.ISBN (R*)&#xA;- Variantes">
     <bounds
         x="458"
         y="564"
         width="205"
-        height="265"/>
+        height="361"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -318,7 +319,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="928eb2f1-41d2-4967-bbad-a5e513bc570a"
-      targetConnections="f26a5dcb-823b-4094-b9c9-80c09c7230ff 47abe842-0656-4f19-9117-d62135c7476e 0e2bb27e-7c3f-4d46-b235-f03d45890012 470d9348-9113-4ba0-950d-ba5008aa53ff f802c504-f754-4852-aed8-13cb617754f3">
+      targetConnections="f26a5dcb-823b-4094-b9c9-80c09c7230ff f802c504-f754-4852-aed8-13cb617754f3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f1dba89f-43ed-4bff-ad07-a0db7b714fb6"
@@ -410,15 +411,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fd9deb63-7a12-4246-8f58-ca029066365d"
       targetConnections="77d79747-830a-41f8-9c61-7c287905153c">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="47abe842-0656-4f19-9117-d62135c7476e"
-        source="fd9deb63-7a12-4246-8f58-ca029066365d"
-        target="928eb2f1-41d2-4967-bbad-a5e513bc570a">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_2e76e048-8d3a-499a-836b-d1bd22c09cce.xml#2e76e048-8d3a-499a-836b-d1bd22c09cce"/>
-    </sourceConnections>
     <bounds
         x="815"
         y="228"
@@ -777,15 +769,6 @@
       targetConnections="98be8c63-d8d6-45e1-a626-088017ca8d35">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="470d9348-9113-4ba0-950d-ba5008aa53ff"
-        source="75eee422-8115-4136-950c-c05838dc5e7e"
-        target="928eb2f1-41d2-4967-bbad-a5e513bc570a">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_2f329f6f-5cc5-48bf-83b2-257679b54995.xml#2f329f6f-5cc5-48bf-83b2-257679b54995"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="478a67e9-a448-49d4-a5a4-36fc525a6f88"
         source="75eee422-8115-4136-950c-c05838dc5e7e"
         target="09071b8d-46d0-4d26-b228-87860b4c35c4">
@@ -822,20 +805,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="aa030029-f9fb-46dc-b54f-88f03e3dcaa1"
       targetConnections="8be8beb0-02a9-4b81-89f6-eab67e8466dc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0e2bb27e-7c3f-4d46-b235-f03d45890012"
-        source="aa030029-f9fb-46dc-b54f-88f03e3dcaa1"
-        target="928eb2f1-41d2-4967-bbad-a5e513bc570a">
-      <bendpoints
-          startX="325"
-          startY="-171"
-          endX="-534"
-          endY="84"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_49bef95b-f196-46cf-b877-1a543b5bc389.xml#49bef95b-f196-46cf-b877-1a543b5bc389"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="3421f425-e369-4d9e-8dcf-432377845e5d"
@@ -1001,28 +970,6 @@
         y="141"
         width="120"
         height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4b62f40d-d180-407f-9af8-0a3d1bf586ee"
-      textAlignment="1"
-      content="WARNING : Vérifier variantes &amp; Opus&#xA;&#xA;&lt;Attributes>&#xA;                &lt;Attribute id=&quot;BV_FE_FAMILY&quot;>&#xA;&lt;Value>1502270253&lt;/Value>&#xA;&lt;/Attribute>&#xA;                                &lt;Attribute id=&quot;BV_FE_EXPAND&quot;>&#xA;&lt;Value>BV_FE_FAMILY:1502270253&lt;/Value>&#xA;&lt;/Attribute>&#xA;                &lt;Attribute id=&quot;Type&quot;>&#xA;&lt;Value>produit&lt;/Value>&#xA;&lt;/Attribute>&#xA;&lt;/Attributes>">
-    <bounds
-        x="60"
-        y="708"
-        width="365"
-        height="253"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4166f0a7-ed74-4955-9813-b79ae5b6a0a0"
-      textAlignment="1"
-      content="Target = externalId - RefLM (on vire idEboc)">
-    <bounds
-        x="458"
-        y="864"
-        width="365"
-        height="83"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

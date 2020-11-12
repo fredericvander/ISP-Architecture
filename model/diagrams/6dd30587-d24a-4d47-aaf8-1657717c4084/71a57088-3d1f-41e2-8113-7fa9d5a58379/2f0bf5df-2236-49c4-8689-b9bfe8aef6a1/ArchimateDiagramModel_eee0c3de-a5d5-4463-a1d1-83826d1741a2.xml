@@ -5,18 +5,6 @@
     id="eee0c3de-a5d5-4463-a1d1-83826d1741a2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="f93edba4-51d0-4f31-9332-e40def8d8ad5">
-    <bounds
-        x="2256"
-        y="1776"
-        width="528"
-        height="180"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_cef48b46-b8a7-4f88-900d-907c1379b5e7.xml#cef48b46-b8a7-4f88-900d-907c1379b5e7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="732995dd-d9c4-4b12-a0ac-50c58c387da0"
       targetConnections="029aa623-41b0-4ef6-9ad2-c5187de530a0 3fd13f1d-6397-4dba-831f-220980e9c5b1 1e3550e6-0fc0-4dbd-a94e-dc2e0dbf0a17">
     <bounds
