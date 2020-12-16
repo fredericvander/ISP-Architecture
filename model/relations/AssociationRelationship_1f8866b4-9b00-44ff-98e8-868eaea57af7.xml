@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authentifie"
+    id="1f8866b4-9b00-44ff-98e8-868eaea57af7">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_247fec7c-5fd3-41c5-bb32-ead046f244c2.xml#247fec7c-5fd3-41c5-bb32-ead046f244c2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_44d99ef7-d5f6-4a49-9f81-2138f3b4c167.xml#44d99ef7-d5f6-4a49-9f81-2138f3b4c167"/>
+</archimate:AssociationRelationship>

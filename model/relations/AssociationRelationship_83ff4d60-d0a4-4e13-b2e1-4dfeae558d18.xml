@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="possede"
+    id="83ff4d60-d0a4-4e13-b2e1-4dfeae558d18">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6d418f81-40ed-4c5d-9855-7d3f8fb795ac.xml#6d418f81-40ed-4c5d-9855-7d3f8fb795ac"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_b98f5cf8-1c80-412f-a59c-e5fb490e1809.xml#b98f5cf8-1c80-412f-a59c-e5fb490e1809"/>
+</archimate:AssociationRelationship>

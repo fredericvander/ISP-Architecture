@@ -242,12 +242,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="7602fee1-1eb3-4c29-b126-33c316ed93ed"
       textAlignment="1"
-      content="DATA:&#xA;BRAND&#xA;- Brand.externald (R)&#xA;- Brand.name (R)&#xA;CATEGORY (product category)&#xA;- Category.externalId (R)&#xA;- Category.name (R)&#xA;PRODUCT&#xA;- Product.externalId (R)&#xA;- Product.name (R)&#xA;- Product.brand (R) &#xA;- Product.category (R)&#xA;- Product.ImageURL (R)&#xA;- Product.EAN (R*) (either UPC, or EAN or ISBN is required)&#xA;- Product.UPC (R*)&#xA;- Product.ISBN (R*)">
+      content="DATA:&#xA;BRAND&#xA;- Brand.externald (R)&#xA;- Brand.name (R)&#xA;CATEGORY (product category)&#xA;- Category.externalId (R)&#xA;- Category.name (R)&#xA;PRODUCT&#xA;- Product.externalId (R)&#xA;- Product.name (R)&#xA;- Product.brand (R) &#xA;- Product.category (R)&#xA;- Product.ImageURL (R)&#xA;- Product.EAN (R*) (either UPC, or EAN or ISBN is required)&#xA;- Product.UPC (R*)&#xA;- Product.ISBN (R*)&#xA;- Variantes">
     <bounds
         x="96"
         y="672"
         width="205"
-        height="265"/>
+        height="307"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -366,15 +366,6 @@
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_a5f15484-eb5b-43fe-b385-9b3a352f1d40.xml#a5f15484-eb5b-43fe-b385-9b3a352f1d40"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7d2cdba1-5e74-48a3-af25-03b127bb76d6"
-        source="009f01ae-bc22-4580-ac38-c073824676e4"
-        target="946286bb-d5ba-463c-8bbe-5c1c0c441907">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_2e76e048-8d3a-499a-836b-d1bd22c09cce.xml#2e76e048-8d3a-499a-836b-d1bd22c09cce"/>
     </sourceConnections>
     <bounds
         x="635"
@@ -822,7 +813,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="946286bb-d5ba-463c-8bbe-5c1c0c441907"
-      targetConnections="7d2cdba1-5e74-48a3-af25-03b127bb76d6 d37fc4c3-593a-44b3-8547-1d5c0c40ec05 1a69541c-cbc0-4620-81ce-3fae1acd9a29 161fa8f2-9b25-4fc8-9cb2-8811fb986643">
+      targetConnections="d37fc4c3-593a-44b3-8547-1d5c0c40ec05 1a69541c-cbc0-4620-81ce-3fae1acd9a29 161fa8f2-9b25-4fc8-9cb2-8811fb986643">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="226731c3-3b89-4a09-bb1f-0c21924cabdf"
@@ -1385,5 +1376,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_a723fadf-9748-42df-896a-0dfafe476f8b.xml#a723fadf-9748-42df-896a-0dfafe476f8b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3ab5256c-4d81-48e3-b897-b7a49fea81fb"
+      textAlignment="1"
+      content="CPS : Catalogue Produits et Services">
+    <bounds
+        x="278"
+        y="1193"
+        width="183"
+        height="56"/>
   </children>
 </archimate:ArchimateDiagramModel>

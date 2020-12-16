@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inhabitant profile &amp; Empowerment Network - Product &amp; Dependency - VIEW"
-    id="b9e7386e-2408-4aa3-a9a0-09a3c53a2a42"/>
+    id="b9e7386e-2408-4aa3-a9a0-09a3c53a2a42">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="481996f6-8c85-4a3e-87d9-24aa50acfd46"
+      textAlignment="1"
+      content="Une question est posée à partir de la fiche produit / PAr un client&#xA;La question passe par une étape de modération. Deux possibilité: approuvé ou rejeté.&#xA;Tags de modération posés => sont ils utilisés&#xA;Approuvé => publié => client notifié aussi&#xA;Collabs notifié / Alerting par trigger => collab notifié par mail à chaque question posée&#xA;Rejeté => client notifié => authentification obligatoire&#xA;&#xA;Gestion de ALERTING&#xA;&#xA;Tous les clients ayant achetés le produit sont notifiés&#xA;Alimentation de BZV par les achats/client pour identifier les clients&#xA;&#xA;Le client reçoit un mail avec un lien permettant au client de répondre&#xA;&#xA;Résponse modérée&#xA;&#xA;On peut avoir plusieurs réposnes à une question&#xA;Notion d'utilité de la réponse&#xA;&#xA;Possibilité de faire un report abuse&#xA;&#xA;Les questions réponses sont syndiquées&#xA;&#xA;Les questions / réponses posées sont affichés dans ton espace">
+    <bounds
+        x="444"
+        y="72"
+        width="1189"
+        height="349"/>
+  </children>
+</archimate:ArchimateDiagramModel>
