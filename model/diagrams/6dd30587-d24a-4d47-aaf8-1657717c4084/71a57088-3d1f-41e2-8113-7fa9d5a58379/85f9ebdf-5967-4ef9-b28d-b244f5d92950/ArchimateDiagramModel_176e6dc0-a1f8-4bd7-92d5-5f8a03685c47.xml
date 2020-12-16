@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer set an appointment - VIEW"
+    id="176e6dc0-a1f8-4bd7-92d5-5f8a03685c47">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="320c7653-f11e-4be6-b78d-9642b32e3e7d">
+    <bounds
+        x="12"
+        y="132"
+        width="169"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_c027c660-10a7-4031-8c7f-30962279fe66.xml#c027c660-10a7-4031-8c7f-30962279fe66"/>
+  </children>
+</archimate:ArchimateDiagramModel>
